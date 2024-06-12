@@ -4,13 +4,8 @@
 
 使用方法：
 启动launch
-
 1.robot_navigation
-
 2.astra_camera
-
 3.letter_recognizer
-
 4.pill_recognizer
-
 5.run mult_navi
