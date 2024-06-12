@@ -8,4 +8,4 @@
 2.astra_camera
 3.letter_recognizer
 4.pill_recognizer
-5.run mult_navi
+  5.run mult_navi
